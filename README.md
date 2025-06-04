@@ -7,7 +7,6 @@ A Flask-based API that uses OpenAI's GPT to generate personalized social media c
 - Generate personalized questions to understand user's content style
 - Submit user responses about content preferences
 - Generate platform-specific social media content
-- Health check endpoint
 
 ## Setup
 
